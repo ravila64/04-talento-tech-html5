@@ -1,0 +1,6 @@
+<audio controls>
+  <source src="URL_DEL_PODCAST.mp3" type="audio/mpeg">
+  Tu navegador no soporta el elemento de audio.
+</audio>
+<br>
+<a href="URL_DEL_PODCAST.mp3" download>Descargar Podcast</a>
